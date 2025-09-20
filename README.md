@@ -17,12 +17,6 @@ Java Full Stack Developer
 
 ---
 
-🔭 Here's my portfolio: [YOUR PORTFOLIO LINK]  
-
-👯 I’m looking to collaborate on [PROJECTS YOU WANT TO COLLABORATE ON]  
-
-🤔 I’m looking for help with [WHAT YOU NEED HELP WITH]  
-
 💬 Ask me about Java, Spring Boot, Web Development  
 
 📫 How to reach me:
